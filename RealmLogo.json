@@ -3,8 +3,8 @@
     	{
       
         	"URL": "https://drive.google.com/uc?export=download&id=1uyGEmPWI6vvJh_bH57I3-DWpFYQ1Y5ce",
-        	"Pos": "TopMid",
-        	"Persist": false,
+        	"Pos": "BottomLeft",
+        	"Persist": true,
         	"FadeTime": 5
         }
 	]
